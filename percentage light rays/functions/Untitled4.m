@@ -1,0 +1,1 @@
+all_hist = batchFormation('/home/roopkatha/Downloads/paper work/Gurumukhi/9/','tif');

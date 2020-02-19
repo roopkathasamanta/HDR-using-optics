@@ -1,0 +1,1 @@
+batchFormation('/home/roopkatha/Downloads/paper work/Gurumukhi/0/', 'tif');
